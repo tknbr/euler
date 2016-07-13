@@ -20,8 +20,8 @@ using namespace std;
 int multiples3and5(int N){
 	/**
 	 * What we know is: 
-	 * 	- The number of multiples of 3 below N is ceil((N-1)/3)
-	 *	- The number of multiples of 5 below N is ceil((N-1)/3)
+	 * 	- The number of multiples of 3 below N is floor((N-1)/3)
+	 *	- The number of multiples of 5 below N is floor((N-1)/5)
 	 *	- We will need to take in mind multiples of 15 will be overcounted. 
 	 *
 	 * What will we do: 
