@@ -27,7 +27,7 @@
   * 	1. Calculate the sum of the squares
   *		2. Calculate the square of the sum
   *
-  *	To do the first part we are going to use the square pyramidal number formula (https://en.wikipedia.org/wiki/Square_pyramidal_number):
+  * To do the first part we are going to use the square pyramidal number formula (https://en.wikipedia.org/wiki/Square_pyramidal_number):
   *
   *				(2*N^3 + 3*N^2 + N)/6
   *
