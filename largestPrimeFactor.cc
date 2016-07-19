@@ -30,6 +30,8 @@ using namespace std;
 bool isPrime(long int numberToTest, vector<long int> primeNumbers){
 	/**
 	 * This is not a generic primality test. It's specific for this program.
+	 * Pre: numberToTest is a natural, primeNumbers are all the primes inferior to numberToTest
+	 * Post: true if it is a prime
 	 */
 	
 	for ( int i = 0; i < primeNumbers.size(); ++i ){
