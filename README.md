@@ -64,7 +64,7 @@ Hence the difference between the sum of the squares of the first ten natural num
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 
 
-## [Sum square difference](https://github.com/tknbr/euler/blob/master/10001Prime.cc)
+## [10001st prime](https://github.com/tknbr/euler/blob/master/10001Prime.cc)
 
 
 By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
