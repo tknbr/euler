@@ -105,7 +105,7 @@ Find the thirteen adjacent digits in the 1000-digit number that have the greates
 
 
 A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
-								a2 + b2 = c2
+														a^2 + b^2 = c^2
 
 For example, 32 + 42 = 9 + 16 = 25 = 52.
 
