@@ -59,7 +59,7 @@ unsigned int numberOfDivisors(unsigned long long int n){
 	// At least we know we have for sure 1 divisor.
 	unsigned int divisors = 1;
 	unsigned int count = 0;
-	
+
 	while ( (n % 2) == 0 ){
 		++count;
 		n /= 2;
@@ -85,8 +85,6 @@ unsigned long long int firstTriangularNumberWithNDivisors(unsigned int n){
 	 * Post: It will return the first triangular number to have at least N divisors.
 	 */
 
-	//vector<unsigned long long int> primes = findFirstNPrimes(10000);
-	//cout << "finished looking for primes" << endl;
 	unsigned long long int index = 1;
 	unsigned long long int Nth = kthNumber(index);
 	while (numberOfDivisors(Nth) < n){
