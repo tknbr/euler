@@ -101,5 +101,5 @@ int main(){
 	cout << "N ?" << endl;
 	unsigned long int N;
 	cin >> N;
-	cout << "The first triangular number to have " << N << " exact divisors is: " << firstTriangularNumberWithNDivisors(N) << endl;
+	cout << "The first triangular number to have at least " << N << "  divisors is: " << firstTriangularNumberWithNDivisors(N) << endl;
 }
