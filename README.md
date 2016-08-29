@@ -306,3 +306,12 @@ Starting in the top left corner of a 2×2 grid, and only being able to move to t
 
 How many such routes are there through a 20×20 grid?
 
+
+## [Power digit sum](https://github.com/tknbr/euler/blob/master/powerDigitSum.cc)
+
+
+2^15 = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
+
+What is the sum of the digits of the number 2^1000?
+
+
