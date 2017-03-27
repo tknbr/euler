@@ -1,7 +1,7 @@
 # Project Euler
 
 ## Introduction
-In this branch I will submit an implementation of the problems presented in the webpage https://projecteuler.net/
+In this repostiory I will submit an implementation of the problems presented in the webpage https://projecteuler.net/
 Feel free to use this implementations. This implementations will be coded in c++. 
 
 Best regards, 
